@@ -166,7 +166,7 @@ The branch should eventually provide:
 feat: build campus graph
 feat: implement dijkstra routing
 feat: add astar pathfinding
-test: compare dijkstra and astar
+test: compare dijkstra and A*
 feat: add location alias matching
 feat: integrate natural language destination parsing
 ```
